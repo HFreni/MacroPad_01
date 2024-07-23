@@ -25,6 +25,55 @@
             bindings = <&none &kp M &kp N9 &kp N0 &kp N0 &kp NUMBER_3 &kp RET>;
             label = "MACRO_M9003";
         };
+
+        macro_m9004: macro_m9004 {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&none &kp M &kp N9 &kp N0 &kp N0 &kp NUMBER_4 &kp RET>;
+            label = "MACRO_M9004";
+        };
+
+        macro_m9005: macro_m9005 {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&none &kp M &kp N9 &kp N0 &kp N0 &kp N5 &kp RET>;
+            label = "MACRO_M9005";
+        };
+
+        macro_m9006: macro_m9006 {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&none &kp M &kp N9 &kp N0 &kp N0 &kp NUMBER_6 &kp RET>;
+            label = "MACRO_M9006";
+        };
+
+        macro_m9007: macro_m9007 {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&none &kp M &kp N9 &kp N0 &kp N0 &kp N7 &kp RET>;
+            label = "MACRO_M9007";
+        };
+
+        macro_m9008: macro_m9008 {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&none &kp M &kp N9 &kp N0 &kp N0 &kp N8 &kp RET>;
+            label = "MACRO_M9008";
+        };
+
+        macro_m9009: macro_m9009 {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&none &kp M &kp N9 &kp N0 &kp N0 &kp N9 &kp RET>;
+            label = "MACRO_M9009";
+        };
+
+        macro_m9010: macro_m9010 {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&none &kp M &kp N9 &kp N0 &kp NUMBER_1 &kp N9 &kp RET>;
+            label = "MACRO_M9010";
+        };
     };
 
     keymap {
