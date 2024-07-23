@@ -81,8 +81,8 @@
 
         layer_0 {
             bindings = <
-&macro_m9001  &macro_m9002  &macro_m9003  &kp N4  &kp N5  &kp N6    &kp N7  &kp N8  &kp N9  &kp N0
-&kp N1        &kp N2        &kp N3        &kp N4  &kp N5  &kp N6    &kp N7  &kp N8  &kp N9
+&macro_m9001  &macro_m9002  &macro_m9003  &macro_m9004  &macro_m9005  &macro_m9006    &macro_m9007  &macro_m9008  &macro_m9009  &macro_m9010
+&kp N1        &kp N2        &kp N3        &kp N4        &kp N5        &kp N6          &kp N7        &kp N8        &kp N9
             >;
         };
 
