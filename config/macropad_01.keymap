@@ -22,14 +22,14 @@
         macro_m9003: macro_m9003 {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&none &kp M &kp N9 &kp N0 &kp N0 &kp NUMBER_3 &kp RET>;
+            bindings = <&none &kp M &kp N9 &kp N0 &kp N0 &kp N3 &kp RET>;
             label = "MACRO_M9003";
         };
 
         macro_m9004: macro_m9004 {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&none &kp M &kp N9 &kp N0 &kp N0 &kp NUMBER_4 &kp RET>;
+            bindings = <&none &kp M &kp N9 &kp N0 &kp N0 &kp N4 &kp RET>;
             label = "MACRO_M9004";
         };
 
@@ -43,7 +43,7 @@
         macro_m9006: macro_m9006 {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&none &kp M &kp N9 &kp N0 &kp N0 &kp NUMBER_6 &kp RET>;
+            bindings = <&none &kp M &kp N9 &kp N0 &kp N0 &kp N6 &kp RET>;
             label = "MACRO_M9006";
         };
 
@@ -71,7 +71,7 @@
         macro_m9010: macro_m9010 {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&none &kp M &kp N9 &kp N0 &kp NUMBER_1 &kp N9 &kp RET>;
+            bindings = <&none &kp M &kp N9 &kp N0 &kp N1 &kp N9 &kp RET>;
             label = "MACRO_M9010";
         };
     };
